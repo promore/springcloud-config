@@ -1,3 +1,5 @@
 server:
   port: 3355
-
+name: dev
+config:
+  info: "abcdefg 3355 dev version=2"
